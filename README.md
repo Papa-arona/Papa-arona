@@ -91,8 +91,6 @@ United Nations
 
 ## Let's Connect
 
-Feel free to connect 
-
 **LinkedIn:** https://www.linkedin.com/notifications/?filter=all 
 
 **Email:** ndiayearona0001@gmail.com 
