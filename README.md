@@ -62,11 +62,11 @@ Sustainability
 
 ## Featured Projects
 
-🚧 Urban Heat and Green Space Analysis
-
 🚧 Urban Air Quality
 
 🚧 Flood Risk Assessment
+
+## Upcoming Projects
 
 🚧 Land Cover Change Detection
 
